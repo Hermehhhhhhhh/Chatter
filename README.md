@@ -1,2 +1,0 @@
-"# TwitterScheduler" 
-"# InternshipProjects" 
